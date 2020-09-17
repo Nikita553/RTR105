@@ -1,0 +1,18 @@
+user@epk428-10:~$ history
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ortus
+    4  ortus.lv
+    5  ortus.com
+    6  uname -a
+    7  echo $0
+    8  sh
+    9  whoami
+   10  who
+   11  kast
+   12  last
+   13  pwd
+   14  history
+   15  uname
+   16  man uname
+   17  history
