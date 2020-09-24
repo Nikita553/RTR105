@@ -119,3 +119,18 @@ user@epk428-10:~$ history
   100  ls -lt
   101  jistory
   102  history
+user@epk428-10:~$ whoami
+user
+user@epk428-10:~$ groups
+user dialout libvirtd FPGA
+user@epk428-10:~$ history
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  gro
+    5  groups
+    6  whoami
+    7  groups
+    8  history
+user@epk428-10:~$ 
+
